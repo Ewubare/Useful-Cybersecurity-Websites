@@ -69,14 +69,14 @@ Comprehensive archive of public exploits and corresponding vulnerable software:
 3. **Integrate APIs** into your security workflows where available
 4. **Stay updated** with new features and database updates
 
-## ⚠️ Ethical Use Guidelines
+## ⚠️ Ethical Use Guidelines ⚠️
 
 - Always ensure you have **proper authorization** before scanning or testing systems
 - Respect **terms of service** and rate limits for each platform
 - Use these tools for **legitimate security purposes** only
 - Follow **responsible disclosure** practices when discovering vulnerabilities
 
-## 🤝 Contributing
+## 🤝 Contributing 🤝
 
 Have a useful cybersecurity resource to add? Feel free to submit a pull request with:
 - A clear description of the tool's purpose
